@@ -1,0 +1,4 @@
+selenium==3.141.0
+requests==2.23.0
+slack_sdk==3.11.0
+
